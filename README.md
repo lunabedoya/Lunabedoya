@@ -8,7 +8,7 @@ I also create lifestyle and student content where I share my routines, growth, a
 
 ## 📚 What I’m Currently Learning
 - ESL Level 6  
-- Intermediate Algebra (MAT-119)  
+- Intermediate Algebra (MAT-119) → [📐 Math Reference Guide](MATH_REFERENCE.md)  
 - Reading, writing & academic skills  
 - Exploring **Cybersecurity fundamentals**  
 - Learning basics of **Computer Science**  
