@@ -18,7 +18,7 @@ I also create lifestyle and student content where I share my routines, growth, a
 ## ✨ About Me
 - 🇨🇴 From Colombia, now living in New Jersey  
 - ✏️ Dedicated student  
-- 🐾 Pet mom to 2 cats + 1 dogs  
+- 🐾 Pet mom to 1 cats + 1 dogs  
 - 🎥 I create content about routines, studying, lifestyle & personal growth  
 - ✨ Always improving and adapting to life in the U.S.
 
